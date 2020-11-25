@@ -1,2 +1,5 @@
 # MineSweeper-Solver
-AI made to solve MineSweeper
+AI made to solve MineSweeper. Currently working
+
+# Improvements
+To increase speed, save all equations  
